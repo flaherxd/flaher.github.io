@@ -1,5 +1,5 @@
 /**
- *ofc skidded lmao what do u think i made this lmao
+ * skidded ofc
  */
  @property --bg-angle {
     inherits: false;
@@ -75,7 +75,7 @@
   article {
     border-radius: 1rem;
     box-shadow: 0.125rem 0.25rem 0.25rem 0.5rem oklch(0.1 0.37 315 / 0.25);
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 1rem;
     width: min(400px, 90vw);
   
